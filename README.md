@@ -1,4 +1,9 @@
-## 👩🏻‍💻 Oiii eu sou a Vitória Gomes, e sou apaixonada por programação e tecnologia!
+## 👩🏻‍💻 Oiii me chamo Vitória Gomes, e sou apaixonada por programação e tecnologia!
+Minha trajetória tem sido marcada por desafios e aprendizados que me levaram a me tornar a pessoa que sou hoje. Iniciei minha carreira na área de ADS, onde pude desenvolver minhas habilidades em comunicação e programação. Ao longo dos anos, busquei expandir meu conhecimento em áreas como design digital, sistemas embarcados, programação web entre outros projetos de liderança, o que me permitiu crescer tanto pessoalmente quanto profissionalmente a longo prazo.
+
+✨Técnica em ADS
+
+✨Superior em ADS
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
